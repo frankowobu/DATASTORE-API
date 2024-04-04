@@ -1,0 +1,8 @@
+org\example\TentacleDocStore\PrepareDocumentForRetrieve.class
+org\example\Main.class
+org\example\TentacleDocStore\DocumentDto.class
+org\example\TentacleDocStore\DocumentStorageApi.class
+org\example\TentacleDocStore\DocumentPayload.class
+org\example\TentacleDocStore\RetrieveDocumentRequest.class
+org\example\TentacleDocStore\Application.class
+org\example\TentacleDocStore\RetrieveDocumentResponse.class
